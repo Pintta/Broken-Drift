@@ -1,5 +1,7 @@
 # Broken-Drift
-[QB/ESX] Drift simple standalone script
+Simple standalone script
+
+Support: Standalone, QBus, QBCore, ESX.
 
 Keybind = LEFT SHIFT (ON/OFF)
 
